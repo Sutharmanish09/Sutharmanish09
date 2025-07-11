@@ -1,14 +1,14 @@
-<h1 align="center" style="font-weight: bold">Manish Suthar</h1>
-<p align="center"> <b>Fullstack Developer | React & Firebase Enthusiast</b> </p>
+<h1 align="left" style="font-weight: bold">Manish Suthar</h1>
+<p align="left"> <b>Fullstack Developer | React & Firebase Enthusiast</b> </p>
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sutharmanish09&label=Profile%20views&color=0e75b6" alt="Sutharmanish09" />
 </p>
 
 ---
 
 <h3 style="font-weight: bold">⚡ Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,firebase,mongodb" />
 <br/>
 <img src="https://skillicons.dev/icons?i=tailwindcss,html,css,git,figma,linux" />
@@ -17,7 +17,7 @@
 ---
 
 <h3 style="font-weight: bold">🌐 Find me at:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/manish-suthar-dev/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Sutharmanish09"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://x.com/Max987079"><img src="https://skillicons.dev/icons?i=twitter" /></a>
